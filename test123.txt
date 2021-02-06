@@ -10,3 +10,4 @@ Trying if i can remember what i learnt in class
 
 Below is how to attach an image file already uploaded to this folder
 ![](s6.jpg)
+![] Does not work for a txt file
