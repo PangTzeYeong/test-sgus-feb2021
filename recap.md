@@ -8,7 +8,7 @@ Trying if i can remember what i learnt in class
 * This starts a list - item 3
 
 Below is how to attach an image file already uploaded to this folder
-![s6 lite warranty card]s6.jpg)
+![s6 lite warranty card](s6.jpg)
 
 https://medium.com/@FedakV/infrastructure-as-code-devops-principle-meaning-benefits-use-cases-a4461a1fef2
 
