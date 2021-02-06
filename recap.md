@@ -8,4 +8,4 @@ Trying if i can remember what i learnt in class
 * This starts a list - item 3
 
 Below is how to attach an image file already uploaded to this folder
-![](s6.jpg)
+![](MongoDB Homework - pangtzeyeong.pdf)
