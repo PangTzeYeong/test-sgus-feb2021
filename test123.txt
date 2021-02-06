@@ -1,1 +1,12 @@
 test
+Trying if i can remember what i learnt in class
+
+# This is a Headline
+## This is a smaller Headline
+
+* This starts a list - item 1
+* This starts a list - item 2
+* This starts a list - item 3
+
+Below is how to attach an image file already uploaded to this folder
+![](s6.jpg)
